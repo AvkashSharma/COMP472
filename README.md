@@ -1,5 +1,24 @@
 # COMP472
 Artificial Intelligence
+
+# Team Members
+* Avkash Sharma
+* Karthikan Jeyabalan (40032932)
+* Nirusan Nadarajah
+
+# Wiki
+## Python
+`pip install jupyterlab` install jupyter
+`pip install -U scikit-learn` install scikit-learn
+
+once installed, clone the repo and open terminal to cloned directory
+
+`jupyter notebook` runs jupyter
+
+## Conda
+`conda install -c conda-forge notebook` install jupyter
+`conda install scikit-learn` install scikit-learn
+
 # 1 Experiments with Machine Learning
 ## 1.1 scikit-learn
 For this assignment, you will use the scikit-learn machine learning framework to experiment with different machine learning algorithms and different data sets. The focus of this assignment lies more on the experimentations and analysis than on the implementation. scikit-learn is an open-source machine learning library for Python (see http://scikit-learn.org/stable/), which provides an interface to program with a variety of different algorithms and built-in datasets. There are plenty of online documentation and examples of code online.
