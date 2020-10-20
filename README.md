@@ -1,5 +1,5 @@
 # COMP472
-Artificial Intelligence
+https://github.com/AvkashSharma/COMP472
 
 # Team Members
 * Avkash Sharma (40012077) - Worked on GNB, Base-DT
